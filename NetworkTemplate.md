@@ -31,7 +31,7 @@ You must inspect your traffic capture to answer the following questions:
     `185.243.115.84`
 4. As a bonus, retrieve the desktop background of the Windows host.
 
-![desktop-pic](https://github.com/johnny-atx/Final-Project/blob/master/Images/Final_Day3/Desktop_background.png)
+![desktop-pic](Images/Final_Day3/Desktop_background.png)
 
 ---
 
